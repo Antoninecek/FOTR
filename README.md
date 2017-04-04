@@ -1,0 +1,2 @@
+# STIFOTR
+STI projekt FOTR 2k17
